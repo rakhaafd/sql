@@ -1,0 +1,1 @@
+SELECT * FROM data_konsumen WHERE id_konsumen = 2 AND nama LIKE "%do"
